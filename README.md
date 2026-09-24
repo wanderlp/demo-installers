@@ -30,3 +30,7 @@ fuente en este repo, solo los `.exe` finales.
 ## Changelog e historial
 
 [Mirá la pestaña de Releases](https://github.com/wanderlp/demo-installers/releases).
+
+## Otros proyectos
+
+- [command-gate-for-ai-agents](https://github.com/wanderlp/command-gate-for-ai-agents) — un gate entre tus AI agents y tu infra: ellos proponen comandos, vos los aprobás.
