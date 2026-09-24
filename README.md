@@ -16,16 +16,7 @@ fuente en este repo, solo los `.exe` finales.
 |---|---|---|---|
 | Visor Documentos FEL | v0.2.1 | Windows | [Setup.exe](https://github.com/wanderlp/demo-installers/releases/download/visor-documentos-fel-v0.2.1/VisorDocumentosFEL-Setup-0.2.1.exe) |
 
-## Sobre el Visor FEL
-
-App de escritorio para revisar documentos tributarios electrónicos (DTE) del
-SAT de Guatemala — facturas, notas de crédito, pequeños contribuyentes, etc.
-
-![Pantalla principal](./visor-consulta-dte-sat/screenshots/01-main.png)
-
-![Funcionalidades](./visor-consulta-dte-sat/screenshots/02-features.png)
-
-![Acerca de](./visor-consulta-dte-sat/screenshots/03-about.png)
+Más info del Visor FEL en su [README dedicado](./visor-consulta-dte-sat/README.md).
 
 ## Convenciones
 
