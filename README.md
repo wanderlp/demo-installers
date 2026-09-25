@@ -15,6 +15,7 @@ fuente en este repo, solo los `.exe` finales.
 | Programa | Versión | Plataforma | Descarga |
 |---|---|---|---|
 | [Visor Documentos FEL](./visor-consulta-dte-sat/README.md) | v0.2.1 | Windows | [Setup.exe](https://github.com/wanderlp/demo-installers/releases/download/visor-documentos-fel-v0.2.1/VisorDocumentosFEL-Setup-0.2.1.exe) |
+| [MergeMate](https://github.com/wanderlp/mergemate) | v1.0.1 | Windows | [Setup.exe](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate-Setup.exe) |
 
 ## Convenciones
 
