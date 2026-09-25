@@ -14,9 +14,7 @@ fuente en este repo, solo los `.exe` finales.
 
 | Programa | Versión | Plataforma | Descarga |
 |---|---|---|---|
-| Visor Documentos FEL | v0.2.1 | Windows | [Setup.exe](https://github.com/wanderlp/demo-installers/releases/download/visor-documentos-fel-v0.2.1/VisorDocumentosFEL-Setup-0.2.1.exe) |
-
-Más info del Visor FEL en su [README dedicado](./visor-consulta-dte-sat/README.md).
+| [Visor Documentos FEL](./visor-consulta-dte-sat/README.md) | v0.2.1 | Windows | [Setup.exe](https://github.com/wanderlp/demo-installers/releases/download/visor-documentos-fel-v0.2.1/VisorDocumentosFEL-Setup-0.2.1.exe) |
 
 ## Convenciones
 
