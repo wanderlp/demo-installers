@@ -1,3 +1,9 @@
 # Local tooling / caches
 .codegraph/
 .omo/
+visor-consulta-dte-sat/scripts/
+
+# npm (Playwright devDep — only needed locally for screenshot regeneration)
+node_modules/
+package.json
+package-lock.json
