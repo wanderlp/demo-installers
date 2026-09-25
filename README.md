@@ -12,12 +12,10 @@ fuente en este repo, solo los `.exe` finales.
 
 ## Instaladores disponibles
 
-| Programa | Versión | Plataforma | Descarga |
-|---|---|---|---|
-| [Visor Documentos FEL](./visor-consulta-dte-sat/README.md) | v0.2.1 | Windows | [Setup.exe](https://github.com/wanderlp/demo-installers/releases/download/visor-documentos-fel-v0.2.1/VisorDocumentosFEL-Setup-0.2.1.exe) |
-| [MergeMate](https://github.com/wanderlp/mergemate) | v1.0.1 | Windows | [Setup.exe](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate-Setup.exe) |
-| [MergeMate](https://github.com/wanderlp/mergemate) | v1.0.1 | macOS | [DMG](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate.dmg) |
-| [MergeMate](https://github.com/wanderlp/mergemate) | v1.0.1 | Linux | [AppImage](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate.AppImage) |
+| Programa | Versión | Windows | macOS | Linux |
+|---|---|---|---|---|
+| [Visor Documentos FEL](./visor-consulta-dte-sat/README.md) | v0.2.1 | [Setup.exe](https://github.com/wanderlp/demo-installers/releases/download/visor-documentos-fel-v0.2.1/VisorDocumentosFEL-Setup-0.2.1.exe) | — | — |
+| [MergeMate](https://github.com/wanderlp/mergemate) | v1.0.1 | [Setup.exe](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate-Setup.exe) | [DMG](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate.dmg) | [AppImage](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate.AppImage) |
 
 ## Convenciones
 
