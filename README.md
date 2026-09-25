@@ -17,16 +17,14 @@ fuente en este repo, solo los `.exe` finales.
 | [Visor Documentos FEL](./visor-consulta-dte-sat/README.md) | v0.2.1 | [Setup.exe](https://github.com/wanderlp/demo-installers/releases/download/visor-documentos-fel-v0.2.1/VisorDocumentosFEL-Setup-0.2.1.exe) | — | — |
 | [MergeMate](https://github.com/wanderlp/mergemate) | v1.0.1 | [Setup.exe](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate-Setup.exe) | [DMG](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate.dmg) | [AppImage](https://github.com/wanderlp/mergemate/releases/download/v1.0.1/MergeMate.AppImage) |
 
-## Convenciones
+## ¿Encontraste un problema?
 
-- **Tags**: `<programa>-v<versión>` (ej: `visor-fel-v0.2.1`)
-- **Una release por versión** de cada programa
-- **Assets**: solo el binario principal va adjunto. Los zips/tar.gz que GitHub
-  auto-genera se ignoran.
+Los instaladores de este repo son **builds públicos** generados desde workflows
+en repos privados o repos fuente de cada proyecto. **No abras issues acá** —
+el código y los issues viven en el repo fuente de cada proyecto:
 
-## Changelog e historial
-
-[Mirá la pestaña de Releases](https://github.com/wanderlp/demo-installers/releases).
+- Visor Documentos FEL → [wanderlp/visor-consulta-dte-sat](https://github.com/wanderlp/visor-consulta-dte-sat/issues)
+- MergeMate → [wanderlp/mergemate](https://github.com/wanderlp/mergemate/issues)
 
 ## Otros proyectos
 
