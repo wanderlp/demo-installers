@@ -19,12 +19,12 @@ fuente en este repo, solo los `.exe` finales.
 
 ## ¿Encontraste un problema?
 
-Los instaladores de este repo son **builds públicos** generados desde workflows
-en repos privados o repos fuente de cada proyecto. **No abras issues acá** —
-el código y los issues viven en el repo fuente de cada proyecto:
+Los instaladores son **builds públicos** generados desde los repos fuente
+de cada proyecto. **No abras issues acá** — este repo es solo de binarios,
+no se mantiene como issue tracker.
 
-- Visor Documentos FEL → [wanderlp/visor-consulta-dte-sat](https://github.com/wanderlp/visor-consulta-dte-sat/issues)
-- MergeMate → [wanderlp/mergemate](https://github.com/wanderlp/mergemate/issues)
+- **MergeMate** → abrí un issue en [wanderlp/mergemate](https://github.com/wanderlp/mergemate/issues)
+- **Visor Documentos FEL** → no tiene issue tracker público (el código fuente vive en un repo privado)
 
 ## Otros proyectos
 
