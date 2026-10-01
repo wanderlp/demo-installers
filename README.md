@@ -17,13 +17,19 @@ fuente en este repo, solo los `.exe` finales.
 | [Visor Documentos FEL](./visor-consulta-dte-sat/README.md) | v0.2.1 | [Setup.exe](https://github.com/wanderlp/demo-installers/releases/download/visor-documentos-fel-v0.2.1/VisorDocumentosFEL-Setup-0.2.1.exe) | — | — |
 | [MergeMate](https://github.com/wanderlp/mergemate) | v1.0.3 | [Setup.exe](https://github.com/wanderlp/mergemate/releases/download/v1.0.3/MergeMate-Setup.exe) | [DMG](https://github.com/wanderlp/mergemate/releases/download/v1.0.3/MergeMate.dmg) | [AppImage](https://github.com/wanderlp/mergemate/releases/download/v1.0.3/MergeMate.AppImage) |
 
-## Binarios CLI disponibles
+## Command Gate (`cgate`)
 
-Estos no son instaladores — son binarios sueltos: los descargás y los corrés directo, sin wizard.
+CLI que se registra como MCP server para Claude Code, opencode y Cursor. El
+binario se auto-instala al correrlo (se agrega al PATH y se registra con los
+clientes IA que encuentre) — no hace falta un wizard separado.
 
-| Programa | Versión | Windows | macOS (arm64) | Linux |
-|---|---|---|---|---|
-| [Command Gate](https://github.com/wanderlp/command-gate-for-ai-agents) | v0.2.4 | [.exe](https://github.com/wanderlp/command-gate-for-ai-agents/releases/download/v0.2.4/cgate-windows-amd64.exe) | [binario](https://github.com/wanderlp/command-gate-for-ai-agents/releases/download/v0.2.4/cgate-macos-arm64) | [binario](https://github.com/wanderlp/command-gate-for-ai-agents/releases/download/v0.2.4/cgate-linux-x86_64) |
+| Versión | Windows | macOS (arm64) | Linux |
+|---|---|---|---|
+| v0.2.4 | [.exe](https://github.com/wanderlp/command-gate-for-ai-agents/releases/download/v0.2.4/cgate-windows-amd64.exe) | [binario](https://github.com/wanderlp/command-gate-for-ai-agents/releases/download/v0.2.4/cgate-macos-arm64) | [binario](https://github.com/wanderlp/command-gate-for-ai-agents/releases/download/v0.2.4/cgate-linux-x86_64) |
+
+También instalable vía `pipx install command-gate`, Scoop (Windows) o
+Homebrew (macOS/Linux) — detalles en el
+[repo del proyecto](https://github.com/wanderlp/command-gate-for-ai-agents#get-started).
 
 ## ¿Encontraste un problema?
 
